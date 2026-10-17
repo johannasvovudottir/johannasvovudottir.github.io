@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.johannasvovudottir.parentsharedspace",
+      "sha256_cert_fingerprints": [
+        "85:BF:27:A0:A3:64:B0:6E:4C:16:92:18:31:24:AC:0E:6B:64:C9:1D:90:4D:6E:61:96:40:39:37:76:1F:8F:AF"
+      ]
+    }
+  }
+]
